@@ -1,0 +1,12 @@
+#item-1{
+    background-color: black;
+    color: white;
+}
+#item-2{
+    background-color: yellow;
+    color: black;
+}
+.all-items{
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+}
