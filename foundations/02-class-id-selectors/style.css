@@ -1,0 +1,17 @@
+p {
+    background-color: rgb(255,168,181); 
+    font-family:Verdana,Dejavu Sans,sans-serif ;  
+
+}
+#third-section {
+    font-size: 24px;
+}
+#second-section {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#forth-section {
+    background-color: rgb(142, 255, 142);
+    font-weight: bold;
+    font-size: 24px;
+}
